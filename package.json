@@ -20,7 +20,7 @@
   },
   "scripts": {
     "dev": "vite",
-    "build": "vite build",  <-- **确保这一行存在且正确**
+    "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   }
